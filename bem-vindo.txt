@@ -1,3 +1,3 @@
-Oi, Bárbara!
+Oi, Pedro!
 
 Bem vindo ao minicurso de Git do LTIA :)
